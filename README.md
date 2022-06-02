@@ -3,6 +3,10 @@
 
 We have been learning Full Stack-Web Development at Masai School.We would like to share our construct week project that we have made during unit-3 at Masai school.Here is the link of our homedepot cone site.
 
+* The Home Depot, is the largest home improvement retailer in the United States, supplying tools, 
+              construction products, appliances, and services. 
+              The company is headquartered in incorporated Cobb County, Georgia, with an Atlanta mailing address.
+
 [https://visionary-pastelito-fbdbfd.netlify.app/]
 
 ### Tech Stack:-
